@@ -24,6 +24,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist   # snk runs in Docker and leaves dist/ owned by root
           cd dist
           git init -b output
           git config user.name "github-actions[bot]"
