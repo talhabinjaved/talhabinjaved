@@ -16,7 +16,7 @@
 - 🧠 Senior Full-Stack & AI Engineer with **6+ years** shipping production platforms, from the database to the UI.
 - 📞 Most of my recent work is **real-time AI voice agents**: OpenAI Realtime and GPT-Live over SIP and WebRTC, with tool calling, RAG and CRM integrations.
 - 🏗️ I build **multi-tenant SaaS** end to end: usage-based billing, payments, RBAC, ERP/CRM integrations and CI/CD on AWS.
-- 🌍 Based between **Doha 🇶🇦** and **Lahore 🇵🇰**. I've delivered for telecom, US healthcare, recruiting, food-tech and Qatar government (TASMU) clients.
+- 🌍 Based in **Lahore, Pakistan 🇵🇰**, working remotely with clients in the US and Qatar. I've delivered for telecom, US healthcare, recruiting, food-tech and Qatar government (TASMU) clients.
 - 💬 Ask me about voice AI, LLM apps, FastAPI/Django or Next.js.
 
 ### 🚀 What I'm building
