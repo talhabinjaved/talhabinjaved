@@ -74,6 +74,17 @@
 
 ### 📈 Contributions
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=talhabinjaved&theme=github-dark-blue&hide_border=true" />
+    <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=talhabinjaved&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=talhabinjaved&layout=compact&langs_count=6&hide=html&theme=github_dark&hide_border=true" />
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhabinjaved&layout=compact&langs_count=6&hide=html&hide_border=true" />
+  </picture>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/talhabinjaved/talhabinjaved/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhabinjaved/talhabinjaved/output/github-snake.svg" />
