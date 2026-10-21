@@ -14,51 +14,13 @@
 ### About me
 
 - 🧠 Senior Full-Stack & AI Engineer with **6+ years** shipping production platforms, from the database to the UI.
-- 📞 Most of my recent work is **real-time AI voice agents**: OpenAI Realtime and GPT-Live over SIP and WebRTC, with tool calling, RAG and CRM integrations.
-- 🏗️ I build **multi-tenant SaaS** end to end: usage-based billing, payments, RBAC, ERP/CRM integrations and CI/CD on AWS.
-- 🌍 Based in **Lahore, Pakistan 🇵🇰**, working remotely with clients in the US and Qatar. I've delivered for telecom, US healthcare, recruiting, food-tech and Qatar government (TASMU) clients.
+- 📞 Most of my recent work is **real-time AI voice agents** on OpenAI Realtime and GPT-Live over SIP and WebRTC: agents that answer phone calls, chat with website visitors, run live presentations and hold voice interviews, with tool calling, RAG and CRM integrations.
+- 🏗️ I build **multi-tenant SaaS** end to end: telephony, usage-based billing, payments, RBAC, third-party integrations and CI/CD on AWS.
+- 🌐 I've delivered across telecom, healthcare, recruiting, food-tech and the public sector, including the Government of Qatar, from compliance tools to ordering and booking systems and bilingual English/Arabic apps.
+- 🌍 Based in **Lahore, Pakistan 🇵🇰**, working remotely with clients in the US and Qatar.
 - 💬 Ask me about voice AI, LLM apps, FastAPI/Django or Next.js.
 
-### 🚀 What I'm building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📞 Unificx</h4>
-      AI voice agents and telecom SaaS. Businesses get phone numbers, a cloud PBX and AI agents that answer calls, chat with website visitors and present slides live.
-      <br/><br/>
-      <code>FastAPI</code> <code>Django</code> <code>OpenAI GPT-Live</code> <code>WebRTC</code> <code>SIP</code> <code>Stripe</code> <code>AWS</code>
-      <br/><br/>
-      🔗 <a href="https://unificx.com">unificx.com</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 ScreenPilot</h4>
-      AI recruiting platform. Voice interviews verify what candidates claim on their CVs, and an auditable scoring engine matches them to roles.
-      <br/><br/>
-      <code>Next.js</code> <code>FastAPI</code> <code>OpenAI Realtime</code> <code>PostgreSQL</code> <code>Redis</code>
-      <br/><br/>
-      🔗 <a href="https://screenpilot.unificx.com">screenpilot.unificx.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏥 Clinical Auditing Portal</h4>
-      Compliance auditing for US nursing homes: digital audit workflows, compliance scoring and PDF reports, with OWASP-hardened, PHI-safe security.
-      <br/><br/>
-      <code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Celery</code> <code>Docker</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🍽️ Torba</h4>
-      Food-tech platforms in Doha: cloud-kitchen order management, a cashless NFC school canteen and a vendor booking portal, all bilingual (English/Arabic).
-      <br/><br/>
-      <code>Django</code> <code>Next.js</code> <code>WebSockets</code> <code>Celery</code> <code>AWS</code>
-      <br/><br/>
-      🔗 <a href="https://vendors.torba.co">vendors.torba.co</a>
-    </td>
-  </tr>
-</table>
-
-<sub>These live in private client repositories. The pinned projects below are my open-source work.</sub>
+<sub>Most of my work lives in private client repositories. The pinned projects below are my open-source work.</sub>
 
 ### 🛠️ Tech stack
 
